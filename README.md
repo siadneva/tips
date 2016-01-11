@@ -7,7 +7,7 @@ Time spent: 5 hours spent in total
 Completed user stories:
 
  Required: User can input a bill amount, select tip percentage, dismiss the keyboard. The total amount to pay is calculated and displayed based on the input
- Optional: Added app icon; added images next to the layout; changed font family and color
+ Optional: Added app icon; changed font family and color; added images next to the layout; included animation/fade for those images (as user inputs amount)
  
 Notes:
 
