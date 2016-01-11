@@ -16,7 +16,7 @@ I had some trouble with xcode layout at first (switching between various views).
 
 Walkthrough of all user stories:
 
-[Video Walkthrough](https://raw.github.com/siadneva/tips/plus.png)
+<img src="https://github.com/siadneva/tips/blob/master/siadneva_tipsApp.gif"></img>
 
 GIF created with LiceCap.
 
