@@ -2,7 +2,7 @@ Tips Calculator
 
 This is an IOS application for calculating tips
 
-Time spent: 5 hours spent in total
+Time spent: about 5 hours. 
 
 Completed user stories:
 
@@ -11,7 +11,7 @@ Completed user stories:
  
 Notes:
 
-I had some trouble with xcode layout at first (switching between various views). Sometimes I would get two code editors (instead of the code and storyboard view), and the code wasn't identical in those views, which was confusing.
+I had some trouble with xcode (like switching between various views/parts).
 
 
 Walkthrough of all user stories:
