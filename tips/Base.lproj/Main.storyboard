@@ -98,10 +98,7 @@
                     <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
                     <size key="freeformSize" width="375" height="667"/>
                     <connections>
-                        <outlet property="bill" destination="9wZ-tX-Hua" id="hDS-sl-fP3"/>
                         <outlet property="billField" destination="xMt-Fo-eqR" id="zos-Aa-790"/>
-                        <outlet property="equal" destination="0WW-dt-ZRg" id="gdv-Rj-bnk"/>
-                        <outlet property="tip" destination="xc2-Qx-yzd" id="Grp-I5-6K6"/>
                         <outlet property="tipControl" destination="dEX-d2-rK2" id="n5i-uv-dMw"/>
                         <outlet property="tipLabel" destination="DDL-rd-hYO" id="Vac-dN-oE2"/>
                         <outlet property="totalLabel" destination="Wz0-jR-Nr4" id="yJE-H5-T6X"/>

@@ -14,10 +14,6 @@ class ViewController: UIViewController {
     @IBOutlet weak var billField: UITextField!
     @IBOutlet weak var tipLabel: UILabel!
     @IBOutlet weak var totalLabel: UILabel!
-    
-    @IBOutlet weak var bill: UIImageView!
-    @IBOutlet weak var tip: UIImageView!
-    @IBOutlet weak var equal: UIImageView!
         
     
     override func viewDidLoad() {
@@ -47,17 +43,6 @@ class ViewController: UIViewController {
         
         tipLabel.text = String(format: "$%.2f", tip)
         totalLabel.text = String(format: "$%.2f", total)
-        
-        self.bill.alpha = 0
-        self.tip.alpha = 0
-        self.equal.alpha = 0
-        
-        UIImageView.animateWithDuration(0.4, animations: {
-            self.bill.alpha = 1
-            self.tip.alpha = 1
-            self.equal.alpha = 1
-            
-        })
         
     }
 
